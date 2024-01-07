@@ -1,0 +1,61 @@
+.navbar {
+    text-align: center;
+    height: 80px;
+    background-color: rgb(40, 42, 53);
+    word-spacing: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    line-height: 80px;
+}
+
+#html h1 {
+    font-size: 40px;
+}
+
+
+.btn {
+    text-decoration: none;
+    height: 50px;
+    font-size: 18px;
+    background-color: #04aa6d;
+    border-color: #04aa6d;
+}
+
+.btn a {
+    text-decoration: none;
+    color: white;
+}
+
+#about {
+    background-color: #d9ede1;
+}
+
+#about p {
+    line-height: 45px;
+    text-indent: 20px;
+}
+
+.btn2 {
+    text-decoration: none;
+    height: 50px;
+    font-size: 18px;
+    background-color: black;
+    border-color: #04aa6d;
+}
+
+.btn2 a {
+    text-decoration: none;
+    color: white;
+}
+
+#learn h2 {
+    text-indent: 20px;
+}
+
+#learn p {
+    text-indent: 20px;
+} 
